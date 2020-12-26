@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+ajaira/__init__.py
+ajaira/jinis.py
+ajaira.egg-info/PKG-INFO
+ajaira.egg-info/SOURCES.txt
+ajaira.egg-info/dependency_links.txt
+ajaira.egg-info/top_level.txt

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ajaira
+Version: 0.0.1
+Summary: This packages does nothing.
+Home-page: https://github.com/amitrm/ajaira
+Author: Amit Ranjan Mondal
+Author-email: amit.armondal@gmail.com
+License: UNKNOWN
+Description: This package has been developed as a test and it does nothing. 
+        Thanks for installing.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
